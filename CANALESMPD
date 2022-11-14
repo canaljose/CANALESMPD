@@ -5,12 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
 https://1246-vos.dtvott.com/DASH/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
-https://api59.tvgratis.live/streams/1246/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORTS AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
