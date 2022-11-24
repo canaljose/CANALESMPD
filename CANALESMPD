@@ -165,7 +165,7 @@ https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd
 
 #EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAX
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+https://bcovlive-a.akamaihd.net/9d72b1aa553e4773bc024c88c5f74c85/us-west-2/6058004209001/profile_2/chunklist_wv.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png"group-title="Panama",SERTVHD
 https://stream-04.sv4.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpqUkq3MTPHJsgEy4N-8u-GYtTjSPXAhMacjd6lB6nMF0)/dm/3/x81cvsk/s/live-3.m3u8#cell=lsv4
